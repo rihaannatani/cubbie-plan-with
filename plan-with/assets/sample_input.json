@@ -1,0 +1,19 @@
+{
+  "timezone": "America/Phoenix",
+  "window": {"start": "2026-10-30T12:00", "end": "2026-10-31T23:00"},
+  "min_minutes": 90,
+  "day_hours": {"start": "11:00", "end": "23:00"},
+  "people": [
+    {"name": "Rihaan", "busy": [
+      {"start": "2026-10-30T12:00", "end": "2026-10-30T14:15"},
+      {"start": "2026-10-31T10:00", "end": "2026-10-31T14:00"}
+    ]},
+    {"name": "Anhiti", "busy": [
+      {"start": "2026-10-30T13:30", "end": "2026-10-30T18:00"}
+    ], "late_join_ok": true},
+    {"name": "Maya", "free": [
+      {"start": "2026-10-30T15:00", "end": "2026-10-30T22:00"},
+      {"start": "2026-10-31T16:00", "end": "2026-10-31T23:00"}
+    ]}
+  ]
+}
